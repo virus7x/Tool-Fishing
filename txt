@@ -1,0 +1,25 @@
+pkg update -y
+clear
+pkg upgared -y
+clear
+pkg install git -y
+clear
+pkg install php -y
+clear
+pkg install pip -y
+clear
+pkg install pip2 -y
+clear
+pkg install python -y
+clear
+pkg install python2 -y
+clear
+pkg install ruby -y
+clear
+pkg install unzip -y
+clear
+pkg install nmap -y
+clear
+pkg install figlet -y
+clear
+pkg install zip -y
